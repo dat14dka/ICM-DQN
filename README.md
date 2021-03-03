@@ -9,7 +9,7 @@ Running the agent
 
 2. python -m run --map DefeatRoaches --max_episode 10000 --agent agents.deepq.DQNAgent --training True
 
---map DefeatRoaches, changes the the map
+--map DefeatRoaches, changes the the map \n
 --max_episode 10000, determines how many episodes should be run 
 --agent agents.deepq.DQNAgent, determines which agent should be use
 --training True, determines if the agent will train or validate
