@@ -27,7 +27,7 @@ Running an already trained agent:
 3. Run the agent like usual. 
 
 
-To Tensorboard Graphs:
+To Observe Tensorboard Graphs:
 1. Open Anaconda Prompt
 
 2. tensorboard --logdir tensorboard/deepq_statistics
