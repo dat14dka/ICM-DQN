@@ -2,10 +2,10 @@
 An implementation of a modified DQN using an ICM playing SC2 using PYSC2
 
 Requirements: 
-	Python 3 (tested with 3.7)
-	pysc2 (tested with 3.0.0)
-	tensorflow (tested with 2.1.0)
-	StarCraft II + Maps
+Python 3 (tested with 3.7)
+pysc2 (tested with 3.0.0)
+tensorflow (tested with 2.1.0)
+StarCraft II + Maps
 
 
 Running the agent
