@@ -8,6 +8,7 @@ Running the agent
 1. change director to ../ICM+DQN_v2.08
 
 2. python -m run --map DefeatRoaches --max_episode 10000 --agent agents.deepq.DQNAgent --training True
+
 a. --map DefeatRoaches, changes the the map
 b. --max_episode 10000, determines how many episodes should be run
 c. --agent agents.deepq.DQNAgent, determines which agent should be use
