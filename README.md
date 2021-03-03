@@ -25,9 +25,9 @@ Running an already trained agent:
 
 
 To Tensorboard Graphs:
-	1. Open Anaconda Prompt
-	2. tensorboard --logdir tensorboard/deepq_statistics
-	3. Open up webbrowser
-	4. Enter "http://localhost:6006/" in url
+1. Open Anaconda Prompt
+2. tensorboard --logdir tensorboard/deepq_statistics
+3. Open up webbrowser
+4. Enter "http://localhost:6006/" in url
 
 
