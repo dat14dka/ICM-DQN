@@ -1,19 +1,22 @@
 # ICM-DQN
 An implementation of a modified DQN using an ICM playing SC2 using PYSC2
 
-Requirements: Python 3 (tested with 3.7), pysc2 (tested with 3.0.0), tensorflow (tested with 2.1.0), StarCraft II + Maps
+Requirements: \
+Python 3 (tested with 3.7)\
+pysc2 (tested with 3.0.0)\
+Tensorflow (tested with 2.1.0)\
+StarCraft II + Maps\
 
 
 Running the agent
 1. change director to ../ICM+DQN_v2.08
 
-2. python -m run --map DefeatRoaches --max_episode 10000 --agent agents.deepq.DQNAgent --training True
-
---map DefeatRoaches, changes the the map \
---max_episode 10000, determines how many episodes should be run \
---agent agents.deepq.DQNAgent, determines which agent should be use \
---training True, determines if the agent will train or validate \
---save_every_nth_episode 1, determines how often the agent will save its progress \
+2. python -m run --map DefeatRoaches --max_episode 10000 --agent agents.deepq.DQNAgent --training True\
+a. --map DefeatRoaches, changes the the map \
+b. --max_episode 10000, determines how many episodes should be run \
+c. --agent agents.deepq.DQNAgent, determines which agent should be use \
+d. --training True, determines if the agent will train or validate \
+e. --save_every_nth_episode 1, determines how often the agent will save its progress \
 
 
 Running an already trained agent:
