@@ -20,7 +20,7 @@ e. --save_every_nth_episode 1, determines how often the agent will save its prog
 
 
 Running an already trained agent:
-1. For runnig the agent, it needs 3 folders with 4 files in each. (If your running the agent, then the agent will save its progress after each episode, in the checkpoints-folder)
+1. For runnig the agent, it needs 3 folders with 4 files in each. (If you're running the agent, then the agent will save its progress after each specified amount of episodes, in the checkpoints-folder)
 
 2. Paste these 3 folders, containing the files in the "checkpoints" folder
 
