@@ -1,0 +1,2 @@
+model_checkpoint_path: "DeepQ+ICM.ckpt"
+all_model_checkpoint_paths: "DeepQ+ICM.ckpt"
