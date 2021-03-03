@@ -9,11 +9,11 @@ Running the agent
 
 2. python -m run --map DefeatRoaches --max_episode 10000 --agent agents.deepq.DQNAgent --training True
 
---map DefeatRoaches, changes the the map \n
---max_episode 10000, determines how many episodes should be run 
---agent agents.deepq.DQNAgent, determines which agent should be use
---training True, determines if the agent will train or validate
---save_every_nth_episode 1, determines how often the agent will save its progress
+--map DefeatRoaches, changes the the map \
+--max_episode 10000, determines how many episodes should be run \
+--agent agents.deepq.DQNAgent, determines which agent should be use \
+--training True, determines if the agent will train or validate \
+--save_every_nth_episode 1, determines how often the agent will save its progress \
 
 
 Running an already trained agent:
