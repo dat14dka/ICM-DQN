@@ -15,7 +15,7 @@ Running the agent
 a. --map DefeatRoaches, changes the the map \
 b. --max_episode 10000, determines how many episodes should be run \
 c. --agent agents.deepq.DQNAgent, determines which agent should be use \
-d. --training True, determines if the agent will train or validate \
+d. --training True, determines if the agent will train \
 e. --save_every_nth_episode 1, determines how often the agent will save its progress \
 
 
